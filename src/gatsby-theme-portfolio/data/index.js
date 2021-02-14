@@ -2,7 +2,7 @@ module.exports = {
     defaultTitle: "Tim Silvester",
     logo: "https://gatsby-theme-portfolio.smakosh.com/favicon/favicon-512.png",
     author: "Tim Silvester",
-    url: "https://taSilver.github.io",
+    url: "https://silvester.dev",
     legalName: "Timothy Silvester",
     defaultDescription: "I’m Tim and I’m a Backend & Devops engineer!",
     socialLinks: {
@@ -21,7 +21,7 @@ module.exports = {
       zipCode: "3194"
     },
     contact: {
-      email: "tim.silvester45@outlook.com",
+      email: "tim@silvester.dev",
       phone: "0429 053 166"
     },
     foundingDate: "2021",
