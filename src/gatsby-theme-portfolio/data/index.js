@@ -4,13 +4,11 @@ module.exports = {
     author: "Tim Silvester",
     url: "https://taSilver.github.io",
     legalName: "Timothy Silvester",
-    defaultDescription: "I’m John and I’m a Backend & Devops engineer!",
+    defaultDescription: "I’m Tim and I’m a Backend & Devops engineer!",
     socialLinks: {
       github: "https://github.com/taSilver",
-      linkedin: "https://www.linkedin.com/in/ismail-ghallou-630149122/",
-      google: "https://plus.google.com/u/0/+IsmailSmakoshGhallou",
+      linkedin: "https://www.linkedin.com/in/tim-silvester/"
     },
-    googleAnalyticsID: "UA-xxxxx-x",
     themeColor: "#6b63ff",
     backgroundColor: "#6b63ff",
     social: {
@@ -26,6 +24,5 @@ module.exports = {
       email: "tim.silvester45@outlook.com",
       phone: "0429 053 166"
     },
-    foundingDate: "2021",
-    recaptcha_key: "xxxxxxxxxx"
+    foundingDate: "2021"
   };

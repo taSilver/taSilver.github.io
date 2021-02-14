@@ -8,7 +8,8 @@
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages -d public"
   },
   "dependencies": {
     "change-case": "^4.1.2",
@@ -18,5 +19,8 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^6.1.0",
     "to-style": "^1.3.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
