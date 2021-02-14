@@ -1,0 +1,22 @@
+{
+  "name": "tim-silvester-git-hub-portfolio",
+  "version": "1.0.0",
+  "description": "Tim Silvester | GitHub Portfolio",
+  "main": "gatsby-config.js",
+  "author": "Tim Silvester",
+  "private": true,
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "change-case": "^4.1.2",
+    "gatsby": "^2.13.2",
+    "gatsby-theme-portfolio": "^1.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^6.1.0",
+    "to-style": "^1.3.3"
+  }
+}
