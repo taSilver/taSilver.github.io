@@ -24,5 +24,6 @@ module.exports = {
       email: "tim.silvester45@outlook.com",
       phone: "0429 053 166"
     },
-    foundingDate: "2021"
+    foundingDate: "2021",
+    recaptcha_key: "6LdaLVcaAAAAAMLbSRo12vhjH8pEAjDhRjGKx5Ek"
   };
